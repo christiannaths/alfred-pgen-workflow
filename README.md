@@ -1,7 +1,7 @@
-pGen - XKCD-style Password Generator
+Alfred pGen Workflow
 =============
 
-An Alfred workflow to generate XKCD-style passwords, a la http://xkcd.com/936/
+An [Alfred](http://www.alfredapp.com/) workflow to generate XKCD-style passwords, a la http://xkcd.com/936/
 
 
 ### Install
