@@ -10,4 +10,4 @@ arg.times do
   password.push(segment)
 end
 
-puts password.join('')
+puts password.join('-')
