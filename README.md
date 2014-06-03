@@ -22,3 +22,7 @@ pgen
 #=> begunmaydropcry
 ```
 etc...
+
+#### Config
+If you want to chcange the default seperator (by default `-`), edit `alfred-pgen-workflow/src/main.rb`. 
+There's a variable to the sepeartor.
