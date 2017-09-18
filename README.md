@@ -6,7 +6,10 @@ An [Alfred](http://www.alfredapp.com/) workflow to generate XKCD-style passwords
 
 ### Install
 
-Download. Double click on `pGen.alfredworkflow` to install.
+- Download. Double click on `pGen.alfredworkflow` to install.
+- Replace the contents of `dictionary.txt` with a long list of words you generated yourself.
+
+> **Warning** A default dictionary of words is provided in dictionary.txt, but you should definitely generate your own and use it instead, otherwise anybody could use this dictionary to pretty easily brute-force all of your passwords. Keep it secret, keep it safe.
 
 ### Use
 
